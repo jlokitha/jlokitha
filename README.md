@@ -79,5 +79,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Gayanuka Bulegoda
+  &copy; 2023 Janindu Lokitha
 </div>
