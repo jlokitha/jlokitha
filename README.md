@@ -1,83 +1,57 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <div align="center">
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/gayanukabulegoda?style=social"> &nbsp;&nbsp; <img alt="jlokitha | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
-</div>
-<div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=+I'm+Janindu+Lokitha+;Welcome+to+My+Profile!"
-</div>
-<hr>
-<h3 align="center">Software Engineer</h3>
-<p align="center">
-<a href="www.linkedin.com/in/janindulokitha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.whatsapp.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="akash_chowrasia" height="30" width="40" /></a>
- <a href = ""><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40"  alt=""/></a>
-</p>
+# Janindu Lokitha
 
-
-<p align="center">
-  <em>
-    This is ME, Lokitha. <b>First year</b> undergraduate, from <a href="https://www.ijse.lk/"> <b>Institute of Java Software Engineering</b></a> <br>
-    Aspiring <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400" align="right"/>
-- :credit_card: My full name is <b>L.L.Janindu Lokitha</b> <br>
-- :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
-- :books: My major is <b>Software Engineering</b> <br>
-- :earth_asia: I live in <b>Matara, Sri Lanka</b> <br>
-- :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>. <br>
-- :monocle_face: I'm interested in <b>Coding,reading</b> and <b>watching tech-based videos</b> <br>
-- :sunglasses: My quote is <b>"Challenges Are What Make Life Interesting And Overcoming Them Is What Makes Life Meaningful"</b> <br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
-<br>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlokitha&layout=compact&show_icon=true&theme=algolia" alt="ashenmliyanage-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=jlokitha&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jlokitha&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=jlokitha&theme=react-dark"/>
+## Software Engineering Student
 </div>
 
-<br>
-<div align="center">
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" align="center"> <br>
+I am a Software Engineering undergraduate at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) with a passion for full-stack development. I focus on creating efficient, scalable, and user-centric solutions while continuously learning and improving. I thrive on challenges that require innovative thinking and value delivering high-quality, impactful software.
 
-## For More Information, Please Check Out or Contact Me Via
+### Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlokitha&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlokitha&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
+### Let's Connect
 
-<p align="center">
-  <a href="mailto: ljanindulokitha@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="www.linkedin.com/in/janindulokitha" target="_blank">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+I'm always interested in collaborating on interesting projects or discussing new technologies. Feel free to reach out!
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/jlokitha" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
-<p> 
+- 📧 Email: [ljanindulokitha@gmail.com](mailto:ljanindulokitha@gmail.com)
+- 💼 LinkedIn: [Janindu Lokitha](https://www.linkedin.com/in/janindulokitha)
+- 💬 Discord: [@jlokitha](https://discord.com/users/jlokitha)
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Janindu Lokitha
+
+#
+  &copy; 2024 Janindu Lokitha
 </div>
