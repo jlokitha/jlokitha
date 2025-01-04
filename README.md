@@ -1,11 +1,14 @@
 <div align="center">
-
-# Janindu Lokitha
-
-## Software Engineering Student
+  <h1>Janindu Lokitha</h1>
+  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
+  <p>Creating scalable, efficient, and user-centric software solutions.</p>
 </div>
 
-I am a Software Engineering undergraduate at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) with a passion for full-stack development. I focus on creating efficient, scalable, and user-centric solutions while continuously learning and improving. I thrive on challenges that require innovative thinking and value delivering high-quality, impactful software.
+---
+
+### About Me
+
+I am a Software Engineering undergraduate at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) with a passion for full-stack development. My focus is on building scalable, efficient, and impactful software solutions. I'm committed to continuous learning and thrive on challenges that demand innovative thinking.
 
 ### Tech Stack
 
@@ -21,6 +24,8 @@ I am a Software Engineering undergraduate at the [Institute of Software Engineer
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Frameworks & Libraries
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-important?style=for-the-badge&logo=jakarta-ee&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,12 +42,14 @@ I am a Software Engineering undergraduate at the [Institute of Software Engineer
 
 ### GitHub Stats
 
+<p>Here’s an overview of my GitHub activity and most-used languages, reflecting my focus areas and contributions.</p>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlokitha&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlokitha&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 </div>
 
-### Let's Connect
+### Connect with Me
 
 I'm always interested in collaborating on interesting projects or discussing new technologies. Feel free to reach out!
 
