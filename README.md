@@ -2,13 +2,13 @@
   <h1>Janindu Lokitha</h1>
   <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
   <p>Creating scalable, efficient, and user-centric software solutions.</p>
+  <p>Incoming BSc (Hons) Computer Science student (Reading).</p>
 </div>
 
 ---
 
 ### About Me
-
-I am a Software Engineering undergraduate at the [Institute of Software Engineering (IJSE)](https://ijse.lk/) with a passion for full-stack development. My focus is on building scalable, efficient, and impactful software solutions. I'm committed to continuous learning and thrive on challenges that demand innovative thinking.
+I'm a second-year undergraduate Software Engineer at [Institute of Software Engineering (IJSE)](https://ijse.lk/) and currently pursuing a BSc (Hons) in Computer Science at the [University of Bolton](https://www.bolton.ac.uk/). Passionate about coding, innovation, and problem-solving, I thrive on developing impactful software solutions and collaborating on cutting-edge projects. Let’s build something amazing together!
 
 ### Tech Stack
 
@@ -20,14 +20,18 @@ I am a Software Engineering undergraduate at the [Institute of Software Engineer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### Frameworks & Libraries
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-important?style=for-the-badge&logo=jakarta-ee&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### CSS Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -60,5 +64,5 @@ I'm always interested in collaborating on interesting projects or discussing new
 <div align="center">
 
 #
-  &copy; 2024 Janindu Lokitha
+  &copy; 2025 Janindu Lokitha
 </div>
