@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Janindu Lokitha</h1>
-  <h3>Undergraduate Software Engineer | Full-Stack Developer</h3>
+  <h3>Associate Software Engineer | Full-Stack Developer</h3>
   <p>Creating scalable, efficient, and user-centric software solutions.</p>
-  <p>Incoming BSc (Hons) Computer Science student (Reading).</p>
+  <p>BSc (Hons) Computer Science student (Reading).</p>
 </div>
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📖 About Me
 
-Hello! I'm a passionate software engineer currently in my second year at [Institute of Software Engineering (IJSE)](https://ijse.lk/) and pursuing a BSc (Hons) in Computer Science at the [University of Bolton](https://www.bolton.ac.uk/). I love coding, innovation, and problem-solving—always looking forward to developing impactful solutions and collaborating on exciting projects. Let's build something amazing together!
+Hello! I'm a passionate software engineer currently pursuing a BSc (Hons) in Computer Science at the [University of Bolton](https://www.bolton.ac.uk/). I love coding, innovation, and problem-solving—always looking forward to developing impactful solutions and collaborating on exciting projects. Let's build something amazing together!
 
 ---
 
